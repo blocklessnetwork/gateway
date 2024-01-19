@@ -1,0 +1,12 @@
+{
+	"name": "@blockless/gateway-keeper",
+	"version": "0.0.22",
+	"main": "build/index.js",
+	"license": "Apache-2.0",
+	"type": "module",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"dependencies": {},
+	"devDependencies": {}
+}
